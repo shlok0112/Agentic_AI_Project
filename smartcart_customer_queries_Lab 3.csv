@@ -1,0 +1,421 @@
+query_id,query_text,category
+1,kids dress  ,Apparel
+2,  Organic  Sugar Nestle  ,Grocery
+3,KIDS DRESS GREY SIZE 8,Apparel
+4,  SUGAR  FREE BISCUITS  ,Grocery
+5,sugar free peanut butter,Grocery
+6,headphones,Electronics
+7,GAMING MOUSE BELOW 5000,Electronics
+8,gaming mouse between 3000 and 6000...,Electronics
+9,Wireless Earbuds Boat,Electronics
+10,  waterproof  power bank JBL  ,Electronics
+11,Smartphone Under 2000!!,Electronics
+12,Latest Headphones Mi Under 10000,Electronics
+13,Unpolished Green Tea,Grocery
+14,"  average  laptop, does the job but nothing special  ",Electronics
+15,unpolished spices combo  ,Grocery
+16,olive oil,Grocery
+17,wireless smart bulb Boat under 10000,Electronics
+18,hoodie,Apparel
+19,packaging was damaged but the casual shirt itself is fine  ,Apparel
+20,cotton sneakers  ,Apparel
+21,Track Pants Black,Apparel
+22,saree size xl,Apparel
+23,fresh toor dal Tata?  ,Grocery
+24,"excellent value for money, leggings exceeded my expectations",Apparel
+25,Led Tv,Electronics
+26,"  the  cashew nuts stopped working after two days, very disappointed  ",Grocery
+27,bluetooth speaker,Electronics
+28,gluten free almonds?,Grocery
+29,  women's  cotton t shirt blue size l  ,Apparel
+30,noise cancelling charger cable under 500 rupees,Electronics
+31,fresh almonds Nestle,Grocery
+32,  waterproof  laptop under 2000  ,Electronics
+33,Cotton Casual Shirt Beige Size Xl  ,Apparel
+34,HOODIE,Apparel
+35,COLD PRESSED PEANUT BUTTER!!,Grocery
+36,"the leggings stopped working after two days, very disappointed",Apparel
+37,slim fit hoodie navy blue free size,Apparel
+38,cheap home theater system,Electronics
+39,"this casual shirt is amazing, very good quality for the price...",Apparel
+40,kids leggings white,Apparel
+41,Portable Smart Bulb Sony,Electronics
+42,packaging was damaged but the charger cable itself is fine,Electronics
+43,  ORGANIC  MILK POWDER  ,Grocery
+44,Headphones?  ,Electronics
+45,noise cancelling power bank under 10000,Electronics
+46,milk powder,Grocery
+47,kids sneakers,Apparel
+48,"Not Satisfied With The Spices Combo, Feels Cheap And Low Quality?",Grocery
+49,  unpolished  biscuits Tata  ,Grocery
+50,"not satisfied with the smartwatch, feels cheap and low quality",Electronics
+51,POWER BANK  ,Electronics
+52,"worst peanut butter i have ever purchased, waste of money",Grocery
+53,  budget  smartphone Samsung.    ,Electronics
+54,FAST CHARGING LED TV UNDER 2000,Electronics
+55,almonds!!,Grocery
+56,  trendy  saree black    ,Apparel
+57,sugar free organic honey Aashirvaad...,Grocery
+58,  SLIM  FIT SPORTS SHOES WHITE FREE SIZE  ,Apparel
+59,best gaming mouse under 10000,Electronics
+60,"average smartphone, does the job but nothing special?",Electronics
+61,milk powder,Grocery
+62,WATERPROOF LED TV BEST PRICE,Electronics
+63,wireless headphones Boat,Electronics
+64,  COOKING  OIL  ,Grocery
+65,"Worst Saree I Have Ever Purchased, Waste Of Money",Apparel
+66,olive oil...,Grocery
+67,KURTA FREE SIZE,Apparel
+68,portable charger cable between 3000 and 6000  ,Electronics
+69,kids sports shoes size xl.,Apparel
+70,5kg pack cooking oil Aashirvaad,Grocery
+71,Fast Charging Headphones,Electronics
+72,natural sugar Aashirvaad,Grocery
+73,sugar free green tea,Grocery
+74,kids dress blue size m...,Apparel
+75,Wireless Laptop Hp,Electronics
+76,"Average Led Tv, Does The Job But Nothing Special",Electronics
+77,brown bread Fortune.  ,Grocery
+78,latest headphones HP,Electronics
+79,toor dal Britannia,Grocery
+80,unpolished brown bread...,Grocery
+81,portable smartphone Mi!!,Electronics
+82,5kg pack organic honey Tata,Grocery
+83,LAPTOP NOISE BELOW 5000?,Electronics
+84,WATERPROOF HEADPHONES SAMSUNG!!  ,Electronics
+85,wireless tablet boAt!!,Electronics
+86,webcam OnePlus  ,Electronics
+87,  high  resolution webcam Sony?  ,Electronics
+88,high resolution smartwatch,Electronics
+89,packaging was damaged but the organic honey itself is fine,Grocery
+90,unpolished cooking oil  ,Grocery
+91,"not satisfied with the organic honey, feels cheap and low quality",Grocery
+92,formal saree,Apparel
+93,  loose  fit sneakers    ,Apparel
+94,  kids  dress navy blue  ,Apparel
+95,STYLISH FORMAL SHIRT,Apparel
+96,PORTABLE SMARTWATCH,Electronics
+97,4k headphones Dell,Electronics
+98,delivery was late but the green tea quality is good  ,Grocery
+99,organic spices combo,Grocery
+100,  1kg  pack biscuits  ,Grocery
+101,  trendy  sneakers grey size m  ,Apparel
+102,  high  resolution smartwatch Boat  ,Electronics
+103,olive oil Britannia,Grocery
+104,MEN'S SPORTS SHOES GREY,Apparel
+105,SUGAR FREE CASHEW NUTS.  ,Grocery
+106,noise cancelling tablet HP under 500 rupees,Electronics
+107,Waterproof Tablet Oneplus  ,Electronics
+108,organic honey Britannia,Grocery
+109,smartwatch,Electronics
+110,sports shoes size m  ,Apparel
+111,HOODIE BLUE,Apparel
+112,budget charger cable best price,Electronics
+113,  wireless  earbuds.    ,Electronics
+114,brown bread Aashirvaad,Grocery
+115,biscuits.,Grocery
+116,  Cheap  Power Bank  ,Electronics
+117,"  great  almonds, works exactly as described, highly recommend    ",Grocery
+118,sugar free basmati rice Patanjali,Grocery
+119,  fresh  almonds  ,Grocery
+120,  portable  charger cable Realme!!  ,Electronics
+121,waterproof webcam,Electronics
+122,  cotton  sneakers  ,Apparel
+123,"average milk powder, does the job but nothing special  ",Grocery
+124,waterproof headphones boAt below 5000,Electronics
+125,4k gaming mouse under 2000,Electronics
+126,delivery was late but the cooking oil quality is good,Grocery
+127,budget headphones Realme under 500 rupees  ,Electronics
+128,party wear gown,Apparel
+129,fresh brown bread,Grocery
+130,  gaming  mouse boAt!!  ,Electronics
+131,cheap bluetooth speaker!!,Electronics
+132,gluten free cooking oil Saffola...,Grocery
+133,  waterproof  party wear gown red size s  ,Apparel
+134,sports shoes size 8,Apparel
+135,loose fit winter jacket grey size 8...,Apparel
+136,"great cooking oil, works exactly as described, highly recommend  ",Grocery
+137,"this peanut butter is amazing, very good quality for the price",Grocery
+138,loose fit casual shirt navy blue,Apparel
+139,hoodie size m...  ,Apparel
+140,premium olive oil Saffola,Grocery
+141,CHEAP LED TV,Electronics
+142,men's leggings,Apparel
+143,  CASUAL  SHIRT  ,Apparel
+144,women's formal shirt size 8?,Apparel
+145,  LOOSE  FIT KIDS DRESS  ,Apparel
+146,delivery was late but the smartwatch quality is good,Electronics
+147,PARTY WEAR GOWN SIZE M...,Apparel
+148,casual shirt black size l,Apparel
+149,WIRELESS WEBCAM UNDER 500 RUPEES,Electronics
+150,men's formal shirt blue,Apparel
+151,best gaming mouse Realme!!,Electronics
+152,sports shoes  ,Apparel
+153,  hoodie  size 8    ,Apparel
+154,"  average  leggings, does the job but nothing special    ",Apparel
+155,FRESH CASHEW NUTS,Grocery
+156,  1kg  pack organic honey Tata  ,Grocery
+157,"excellent value for money, toor dal exceeded my expectations",Grocery
+158,natural almonds,Grocery
+159,"this sugar is amazing, very good quality for the price.",Grocery
+160,packaging was damaged but the green tea itself is fine  ,Grocery
+161,PORTABLE SMART BULB,Electronics
+162,LIGHTWEIGHT WIFI ROUTER,Electronics
+163,Milk Powder Saffola,Grocery
+164,stylish winter jacket!!,Apparel
+165,cotton party wear gown size m,Apparel
+166,1KG PACK ORGANIC HONEY AASHIRVAAD,Grocery
+167,high resolution tablet,Electronics
+168,budget headphones,Electronics
+169,organic brown bread Nestle,Grocery
+170,"the leggings stopped working after two days, very disappointed...  ",Apparel
+171,portable home theater system  ,Electronics
+172,1kg pack basmati rice,Grocery
+173,"great spices combo, works exactly as described, highly recommend  ",Grocery
+174,  Leggings  Maroon Size S  ,Apparel
+175,kids dress size xl,Apparel
+176,wireless charger cable,Electronics
+177,casual hoodie...,Apparel
+178,lightweight home theater system,Electronics
+179,"average bluetooth speaker, does the job but nothing special...",Electronics
+180,GLUTEN FREE SPICES COMBO NESTLE,Grocery
+181,Natural Atta  ,Grocery
+182,Loose Fit Denim Jeans,Apparel
+183,PREMIUM GREEN TEA,Grocery
+184,Casual Winter Jacket Size 8,Apparel
+185,running shoes,Apparel
+186,Milk Powder,Grocery
+187,cold pressed brown bread Saffola,Grocery
+188,  waterproof  charger cable between 3000 and 6000  ,Electronics
+189,MEN'S SAREE WHITE SIZE L,Apparel
+190,delivery was late but the winter jacket quality is good,Apparel
+191,sneakers black size xl,Apparel
+192,waterproof leggings  ,Apparel
+193,fast charging gaming mouse JBL!!,Electronics
+194,lightweight laptop Boat under 500 rupees,Electronics
+195,noise cancelling webcam,Electronics
+196,party wear gown grey free size  ,Apparel
+197,"excellent value for money, bluetooth speaker exceeded my expectations",Electronics
+198,charger cable under 2000,Electronics
+199,denim jeans size l,Apparel
+200,premium green tea.,Grocery
+201,1KG PACK COOKING OIL NESTLE,Grocery
+202,Bluetooth Speaker Under 10000...,Electronics
+203,cashew nuts Nestle,Grocery
+204,DELIVERY WAS LATE BUT THE SMARTPHONE QUALITY IS GOOD,Electronics
+205,  waterproof  smartwatch Sony  ,Electronics
+206,fast charging gaming mouse under 2000,Electronics
+207,cotton running shoes red size m,Apparel
+208,Budget Smartwatch Sony Under 10000,Electronics
+209,kids dress size m,Apparel
+210,loved the formal shirt!!! will definitely buy again...,Apparel
+211,formal saree white,Apparel
+212,wireless smartwatch under 2000!!,Electronics
+213,  fresh  spices combo  ,Grocery
+214,natural organic honey,Grocery
+215,formal kids dress?,Apparel
+216,formal sneakers black,Apparel
+217,peanut butter Nestle,Grocery
+218,waterproof hoodie size 8,Apparel
+219,"average smart bulb, does the job but nothing special",Electronics
+220,Regular Fit Leggings Size Xl?,Apparel
+221,Premium Almonds!!,Grocery
+222,noise cancelling home theater system below 5000...,Electronics
+223,gluten free milk powder,Grocery
+224,kids dress,Apparel
+225,kids dress navy blue size s.,Apparel
+226,Loved The Almonds!!! Will Definitely Buy Again,Grocery
+227,almonds,Grocery
+228,"  EXCELLENT  VALUE FOR MONEY, PARTY WEAR GOWN EXCEEDED MY EXPECTATIONS  ",Apparel
+229,organic honey  ,Grocery
+230,stylish kurta size 8...,Apparel
+231,COTTON LEGGINGS!!,Apparel
+232,natural almonds Tata,Grocery
+233,fresh cashew nuts Tata,Grocery
+234,  atta  Aashirvaad  ,Grocery
+235,gaming mouse Samsung under 500 rupees  ,Electronics
+236,  tablet.  ,Electronics
+237,  high  resolution webcam  ,Electronics
+238,  Cold  Pressed Milk Powder  ,Grocery
+239,"The Party Wear Gown Stopped Working After Two Days, Very Disappointed",Apparel
+240,kids hoodie black,Apparel
+241,high resolution bluetooth speaker,Electronics
+242,winter jacket size xl,Apparel
+243,Sports Shoes Red?,Apparel
+244,fresh peanut butter,Grocery
+245,5kg pack cooking oil,Grocery
+246,Brown Bread Aashirvaad,Grocery
+247,  4k  wifi router...  ,Electronics
+248,atta,Grocery
+249,  PACKAGING  WAS DAMAGED BUT THE PEANUT BUTTER ITSELF IS FINE.  ,Grocery
+250,Unpolished Organic Honey Nestle,Grocery
+251,PACKAGING WAS DAMAGED BUT THE COOKING OIL ITSELF IS FINE,Grocery
+252,sports shoes size 8  ,Apparel
+253,loved the toor dal!!! will definitely buy again,Grocery
+254,Women'S Sports Shoes,Apparel
+255,kids kurta size s?,Apparel
+256,5kg pack brown bread Saffola,Grocery
+257,HOME THEATER SYSTEM  ,Electronics
+258,"average kurta, does the job but nothing special.",Apparel
+259,women's saree blue,Apparel
+260,latest smart bulb,Electronics
+261,noise cancelling charger cable,Electronics
+262,waterproof sneakers free size...,Apparel
+263,cashew nuts Britannia,Grocery
+264,almonds,Grocery
+265,  latest  gaming mouse  ,Electronics
+266,"THE MILK POWDER STOPPED WORKING AFTER TWO DAYS, VERY DISAPPOINTED",Grocery
+267,  budget  smart bulb  ,Electronics
+268,BROWN BREAD?,Grocery
+269,  budget  power bank under 1000    ,Electronics
+270,sugar free spices combo,Grocery
+271,CHEAP WIFI ROUTER,Electronics
+272,cold pressed milk powder Aashirvaad,Grocery
+273,4K Headphones Samsung,Electronics
+274,power bank between 3000 and 6000,Electronics
+275,"Average Kids Dress, Does The Job But Nothing Special  ",Apparel
+276,party wear gown free size,Apparel
+277,Running Shoes Navy Blue,Apparel
+278,Loved The Headphones!!! Will Definitely Buy Again,Electronics
+279,  noise  cancelling gaming mouse JBL between 3000 and 6000  ,Electronics
+280,PORTABLE SMART BULB,Electronics
+281,WATERPROOF SAREE FREE SIZE,Apparel
+282,cotton t shirt!!,Apparel
+283,"this peanut butter is amazing, very good quality for the price",Grocery
+284,1kg pack spices combo Nestle,Grocery
+285,loose fit kurta beige,Apparel
+286,noise cancelling smart bulb between 3000 and 6000,Electronics
+287,smart bulb under 1000  ,Electronics
+288,regular fit formal shirt size 8,Apparel
+289,spices combo,Grocery
+290,"  average  cashew nuts, does the job but nothing special  ",Grocery
+291,denim jeans maroon free size,Apparel
+292,latest led tv,Electronics
+293,fresh organic honey Aashirvaad,Grocery
+294,saree grey size 8,Apparel
+295,natural biscuits,Grocery
+296,kids dress,Apparel
+297,  sugar  free milk powder  ,Grocery
+298,waterproof wifi router Samsung,Electronics
+299,"Not Satisfied With The Hoodie, Feels Cheap And Low Quality",Apparel
+300,premium almonds Nestle,Grocery
+301,noise cancelling gaming mouse,Electronics
+302,running shoes grey size l,Apparel
+303,1kg pack basmati rice Britannia,Grocery
+304,cotton denim jeans black,Apparel
+305,  FORMAL  HOODIE SIZE 8    ,Apparel
+306,"the webcam stopped working after two days, very disappointed",Electronics
+307,  premium  milk powder  ,Grocery
+308,"  excellent  value for money, running shoes exceeded my expectations  ",Apparel
+309,  latest  wifi router Mi  ,Electronics
+310,  budget  led tv Mi best price  ,Electronics
+311,"this webcam is amazing, very good quality for the price",Electronics
+312,formal casual shirt size 8,Apparel
+313,slim fit denim jeans free size,Apparel
+314,  sugar  free atta  ,Grocery
+315,webcam JBL below 5000,Electronics
+316,  organic  milk powder  ,Grocery
+317,formal cotton t shirt  ,Apparel
+318,party wear gown?,Apparel
+319,premium green tea!!,Grocery
+320,kids formal shirt free size,Apparel
+321,atta Saffola!!,Grocery
+322,webcam,Electronics
+323,led tv  ,Electronics
+324,home theater system under 2000,Electronics
+325,charger cable Boat,Electronics
+326,waterproof home theater system under 10000,Electronics
+327,cheap home theater system Samsung,Electronics
+328,"not satisfied with the basmati rice, feels cheap and low quality",Grocery
+329,  lightweight  bluetooth speaker Dell  ,Electronics
+330,  cotton  t shirt grey!!  ,Apparel
+331,fast charging charger cable under 500 rupees,Electronics
+332,cold pressed biscuits,Grocery
+333,gluten free almonds,Grocery
+334,women's formal shirt,Apparel
+335,men's party wear gown navy blue  ,Apparel
+336,milk powder,Grocery
+337,trendy party wear gown grey size 8?,Apparel
+338,Kids Hoodie Black!!,Apparel
+339,REGULAR FIT TRACK PANTS GREY,Apparel
+340,5kg pack biscuits Patanjali  ,Grocery
+341,Brown Bread,Grocery
+342,cotton sneakers grey size s.,Apparel
+343,unpolished brown bread,Grocery
+344,UNPOLISHED MILK POWDER AASHIRVAAD  ,Grocery
+345,"EXCELLENT VALUE FOR MONEY, ORGANIC HONEY EXCEEDED MY EXPECTATIONS",Grocery
+346,cotton formal shirt,Apparel
+347,party wear gown blue,Apparel
+348,casual track pants black,Apparel
+349,Cheap Led Tv,Electronics
+350,FORMAL SHIRT,Apparel
+351,packaging was damaged but the sneakers itself is fine,Apparel
+352,COLD PRESSED OLIVE OIL,Grocery
+353,party wear gown,Apparel
+354,WATERPROOF BLUETOOTH SPEAKER,Electronics
+355,"THE SMART BULB STOPPED WORKING AFTER TWO DAYS, VERY DISAPPOINTED!!",Electronics
+356,4k smartphone,Electronics
+357,Lightweight Power Bank,Electronics
+358,  headphones.  ,Electronics
+359,track pants,Apparel
+360,Fast Charging Wifi Router!!  ,Electronics
+361,winter jacket navy blue,Apparel
+362,best smartphone!!,Electronics
+363,COLD PRESSED MILK POWDER,Grocery
+364,laptop HP,Electronics
+365,cold pressed cooking oil,Grocery
+366,MEN'S WINTER JACKET...,Apparel
+367,cotton winter jacket size m?,Apparel
+368,"this headphones is amazing, very good quality for the price...",Electronics
+369,delivery was late but the atta quality is good,Grocery
+370,latest smart bulb,Electronics
+371,CASUAL SHIRT BLACK FREE SIZE,Apparel
+372,Delivery Was Late But The Winter Jacket Quality Is Good,Apparel
+373,1kg pack milk powder Fortune.,Grocery
+374,"  not  satisfied with the basmati rice, feels cheap and low quality    ",Grocery
+375,high resolution smart bulb,Electronics
+376,fresh almonds,Grocery
+377,cold pressed olive oil,Grocery
+378,biscuits Fortune!!,Grocery
+379,packaging was damaged but the sneakers itself is fine,Apparel
+380,Charger Cable Sony?,Electronics
+381,Organic Milk Powder,Grocery
+382,Wifi Router Between 3000 And 6000,Electronics
+383,men's winter jacket,Apparel
+384,  MEN'S  RUNNING SHOES  ,Apparel
+385,"This Cooking Oil Is Amazing, Very Good Quality For The Price",Grocery
+386,"  NOT  SATISFIED WITH THE WINTER JACKET, FEELS CHEAP AND LOW QUALITY  ",Apparel
+387,waterproof track pants size xl,Apparel
+388,LATEST WIRELESS EARBUDS,Electronics
+389,bluetooth speaker,Electronics
+390,premium spices combo Britannia,Grocery
+391,formal party wear gown black size 8  ,Apparel
+392,party wear gown,Apparel
+393,"this bluetooth speaker is amazing, very good quality for the price",Electronics
+394,COLD PRESSED OLIVE OIL,Grocery
+395,women's sports shoes beige,Apparel
+396,regular fit cotton t shirt,Apparel
+397,"  excellent  value for money, winter jacket exceeded my expectations  ",Apparel
+398,NATURAL SPICES COMBO  ,Grocery
+399,"The Organic Honey Stopped Working After Two Days, Very Disappointed",Grocery
+400,Sugar Tata  ,Grocery
+401,cotton t shirt size 8,Apparel
+402,ORGANIC ATTA,Grocery
+403,Waterproof Cotton T Shirt!!,Apparel
+404,latest smart bulb Boat,Electronics
+405,  loose  fit denim jeans?  ,Apparel
+406,1kg pack almonds,Grocery
+407,cheap laptop under 10000,Electronics
+408,  cold  pressed milk powder  ,Grocery
+409,NOISE CANCELLING WIRELESS EARBUDS BELOW 5000,Electronics
+410,organic almonds...,Grocery
+411,HOODIE FREE SIZE,Apparel
+412,  lightweight  led tv between 3000 and 6000  ,Electronics
+413,ORGANIC TOOR DAL.,Grocery
+414,best power bank Dell under 2000  ,Electronics
+415,formal shirt free size?,Apparel
+416,wireless smartphone Mi,Electronics
+417,best wifi router between 3000 and 6000,Electronics
+418,WOMEN'S KURTA,Apparel
+419,green tea,Grocery
+420,wireless smartwatch between 3000 and 6000.,Electronics
